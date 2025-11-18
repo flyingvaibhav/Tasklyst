@@ -3,7 +3,7 @@
 A lightweight, dependency‑free, animated To‑Do app built with plain HTML, CSS, and JavaScript. Emphasis on polished micro‑interactions (enter / edit / delete animations, gradient background, accessible motion fallbacks) while keeping the code simple and hackable.
 
 ## Features
-- Add / edit (inline) / delete tasks
+- Add / edit (inline)  / delete tasks
 - Animated task lifecycle:
   - Cascading springy entrance
   - Pulsed highlight on edit
@@ -31,6 +31,7 @@ No build step. No dependencies.
 - style.css — Theme, layout, keyframe animations, motion fallbacks
 - script.js — LocalStorage sync + DOM lifecycle + animation class handling
 
+ 
 ## Key Implementation Ideas
 | Concern | Approach |
 |---------|----------|
