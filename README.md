@@ -82,4 +82,4 @@ Vaibhav Pandey
 Website Link 
 https://flyingvaibhav.github.io/Tasklyst/
 ---
-Feel free to request: dark mode, completion feature, or test plan.
+Feel free to ask your doubt 
